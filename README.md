@@ -1,6 +1,3 @@
-Here’s the description formatted in Markdown:
-
-```markdown
 ## Tornado CMS
 
 **Description:**
