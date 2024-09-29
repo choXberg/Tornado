@@ -49,5 +49,3 @@ using Test-Driven Development (TDD) to ensure high-quality code and minimize bug
 ### Summary:
 Tornado combines cutting-edge technologies and principles to offer developers a powerful, flexible, and scalable CMS. It is built with extensibility and user-friendliness in mind, with a strong focus on performance and code quality through Test-Driven Development (TDD), Domain-Driven Design (DDD), and the application of Onion Architecture.
 ```
-
-You can now copy and paste this into any Markdown editor or GitHub repository!
