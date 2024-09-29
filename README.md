@@ -4,13 +4,18 @@ Here’s the description formatted in Markdown:
 ## Tornado CMS
 
 **Description:**
-Tornado is a powerful, flexible, and highly extendable open-source CMS built on .NET 8. It is optimized for high performance and offers a modular architecture for developers, while providing a simple and intuitive user experience for content authors. Tornado is fully aligned with Domain-Driven Design (DDD), employs Test-Driven Development (TDD), and follows Onion Architecture to ensure clear separation of concerns and maintainability. Clean Code and best practices are central principles in the development of Tornado to create a robust and sustainable system.
+Tornado is a powerful, flexible, and highly extendable open-source CMS built on .NET 8. 
+It is optimized for high performance and offers a modular architecture for developers, while providing a simple and intuitive user experience for content authors.
+Tornado is fully aligned with Domain-Driven Design (DDD), employs Test-Driven Development (TDD), 
+and follows Onion Architecture to ensure clear separation of concerns and maintainability. 
+Clean Code and best practices are central principles in the development of Tornado to create a robust and sustainable system.
 
 ### Tech Stack:
 
 #### Backend:
 - **.NET 8:** A modern, high-performance runtime for building the backend logic and APIs.
-- **C# (with DDD and TDD):** Implementation of domain-specific models and logic, using Test-Driven Development (TDD) to ensure high-quality code and minimize bugs.
+- **C# (with DDD and TDD):** Implementation of domain-specific models and logic, 
+using Test-Driven Development (TDD) to ensure high-quality code and minimize bugs.
 - **Entity Framework Core:** ORM (Object-Relational Mapper) for flexible database access across relational databases (Postgres, MSSQL, SQLite) and potentially document-based databases (MongoDB).
 - **Onion Architecture:** The backend architecture follows Onion Architecture, which ensures a clear separation of the core domain logic (Core) from infrastructure (databases, APIs, etc.). This makes it easier to extend and swap out components.
 - **Domain-Driven Design (DDD):** Tornado is built with well-defined domain models and aggregates to structure business logic and better align the software with real-world needs.
